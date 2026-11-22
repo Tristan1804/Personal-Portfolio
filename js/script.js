@@ -2,7 +2,7 @@
   'use strict';
 
   const CONFIG = {
-    email: 'your-email@example.com'
+    email: 'tristanjhoncapuyan@gmail.com'
   };
 
   clearTimeout(window.__rv);
